@@ -12,6 +12,7 @@ h1{
 	text-align: center;
 	background-color: black;
 	color: white;
+	width: full;
 }
 span{
 	background-color: yellow;
