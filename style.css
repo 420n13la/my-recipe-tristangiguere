@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+border: dashed red 4px;
+}
+
+h1{
+	text-align: center;	
+}
+span{
+	background-color: yellow;
+}
